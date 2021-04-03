@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TallerIndividual1</string>
+    <string name="nombredeljuego">ADIVINA EL NUMERO</string>
+    <string name="rangonumero">Numero (1-?):</string>
+    <string name="intentos">Intentos:</string>
+    <string name="botonjugartexto">Jugar</string>
+    <string name="botonborrartexto">Borrar</string>
+    <string name="botonprobartext">Probar</string>
+    <string name="botonvolvertext">Volver</string>
+    <string name="ingresarnumero">Ingresa el numero</string>
+    <string name="intentosrestantes">"Intentos: "</string>
+</resources>
